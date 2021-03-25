@@ -32,5 +32,5 @@ jobs:
       with:
         app-name: 'cloudskillsradapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_30e12100735a46c99c135ffc439a7ec7 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2f93625a2a6545769d5ebaf45202d9d9 }}
         package: .
